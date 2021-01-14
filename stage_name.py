@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Gabor Sebestyen
-Module Title: Intro to Programming for Data Analytics.
-Assignment Type: Individual Practical Assignment.
+@author: GaborIreHun
+
 Project Title: Gangster Stage Name.
 
 """
